@@ -3,6 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="5c67b01b-654d-4504-a3c9-9cb2530a6759" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/camera_feed_detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/showcases/examples/camera_feed_detection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/camera_feed_detection_display_video.py" beforeDir="false" afterPath="$PROJECT_DIR$/showcases/examples/camera_feed_detection_display_video.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/custom_model_prediction.py" beforeDir="false" afterPath="$PROJECT_DIR$/showcases/examples/custom_model_prediction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/custom_model_training.py" beforeDir="false" afterPath="$PROJECT_DIR$/showcases/examples/custom_model_training.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/image_custom_object_detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/showcases/examples/image_custom_object_detection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/image_object_detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/showcases/examples/image_object_detection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/image_prediction.py" beforeDir="false" afterPath="$PROJECT_DIR$/showcases/examples/image_prediction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/multiple_image_prediction.py" beforeDir="false" afterPath="$PROJECT_DIR$/showcases/examples/multiple_image_prediction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/object_detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/showcases/examples/object_detection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/video_analysis_per_frame.py" beforeDir="false" afterPath="$PROJECT_DIR$/showcases/examples/video_analysis_per_frame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/video_analysis_per_second.py" beforeDir="false" afterPath="$PROJECT_DIR$/showcases/examples/video_analysis_per_second.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/video_custom_object_detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/showcases/examples/video_custom_object_detection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/video_object_detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/showcases/examples/video_object_detection.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,53 +26,20 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/rnd$camera_volumetric.coverage" NAME="camera_volumetric Coverage Results" MODIFIED="1555904280166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/showcases" />
     <SUITE FILE_PATH="coverage/rnd$camera_barcode.coverage" NAME="camera_barcode Coverage Results" MODIFIED="1555903995782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/showcases" />
+    <SUITE FILE_PATH="coverage/rnd$generate_heatmap.coverage" NAME="generate_heatmap Coverage Results" MODIFIED="1555985737712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/showcases/heatmap" />
     <SUITE FILE_PATH="coverage/rnd$image_barcode.coverage" NAME="image_barcode Coverage Results" MODIFIED="1555903980256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/showcases" />
+    <SUITE FILE_PATH="coverage/rnd$tracker.coverage" NAME="tracker Coverage Results" MODIFIED="1555985968516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/showcases/tracking" />
     <SUITE FILE_PATH="coverage/rnd$testShelf.coverage" NAME="testShelf Coverage Results" MODIFIED="1555917974976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/showcases" />
     <SUITE FILE_PATH="coverage/rnd$image_volumetric.coverage" NAME="image_volumetric Coverage Results" MODIFIED="1555904302553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/showcases" />
+    <SUITE FILE_PATH="coverage/rnd$multiTracker.coverage" NAME="multiTracker Coverage Results" MODIFIED="1555985642986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/showcases/MultiObjectTracker" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/showcases/camera_barcode.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="667">
-              <caret line="23" column="69" selection-start-line="23" selection-start-column="69" selection-end-line="23" selection-end-column="69" />
-              <folding>
-                <element signature="e#0#40#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/showcases/camera_volumetric.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="696">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-              <folding>
-                <element signature="e#0#44#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/ml/utils/shelfCamera.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="22" column="17" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="17" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/showcases/testShelf.py">
+        <entry file="file://$PROJECT_DIR$/showcases/tracking/tracker.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+            <state relative-caret-position="29">
+              <caret line="3" column="67" lean-forward="true" selection-start-line="3" selection-start-column="67" selection-end-line="3" selection-end-column="67" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -84,6 +64,9 @@
       <list>
         <option value="$PROJECT_DIR$/com/ml/utils/shelfCamera.py" />
         <option value="$PROJECT_DIR$/showcases/testShelf.py" />
+        <option value="$PROJECT_DIR$/showcases/MultiObjectTracker/multiTracker.py" />
+        <option value="$PROJECT_DIR$/showcases/heatmap/generate_heatmap.py" />
+        <option value="$PROJECT_DIR$/showcases/tracking/tracker.py" />
       </list>
     </option>
   </component>
@@ -114,13 +97,14 @@
             <path>
               <item name="rnd" type="b2602c69:ProjectViewProjectNode" />
               <item name="rnd" type="462c0819:PsiDirectoryNode" />
-              <item name="test-data" type="462c0819:PsiDirectoryNode" />
+              <item name="showcases" type="462c0819:PsiDirectoryNode" />
+              <item name="heatmap" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="rnd" type="b2602c69:ProjectViewProjectNode" />
               <item name="rnd" type="462c0819:PsiDirectoryNode" />
-              <item name="test-data" type="462c0819:PsiDirectoryNode" />
-              <item name="input" type="462c0819:PsiDirectoryNode" />
+              <item name="showcases" type="462c0819:PsiDirectoryNode" />
+              <item name="tracking" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -135,7 +119,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/showcases" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/showcases" />
       <recent name="$PROJECT_DIR$/test-data/input" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -152,8 +140,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.testShelf">
-    <configuration name="camera_barcode" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.tracker">
+    <configuration name="generate_heatmap" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="rnd" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -161,56 +149,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/showcases" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/showcases/heatmap" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/showcases/camera_barcode.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="camera_volumetric" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="rnd" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/showcases" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/showcases/camera_volumetric.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="image_barcode" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="rnd" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/showcases" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/showcases/image_barcode.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/showcases/heatmap/generate_heatmap.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -241,6 +185,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="multiTracker" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="rnd" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/showcases/MultiObjectTracker" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/showcases/MultiObjectTracker/multiTracker.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="testShelf" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="rnd" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -263,13 +229,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tracker" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="rnd" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/showcases/tracking" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/showcases/tracking/tracker.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tracker" />
+        <item itemvalue="Python.generate_heatmap" />
+        <item itemvalue="Python.multiTracker" />
         <item itemvalue="Python.testShelf" />
         <item itemvalue="Python.image_volumetric" />
-        <item itemvalue="Python.camera_volumetric" />
-        <item itemvalue="Python.camera_barcode" />
-        <item itemvalue="Python.image_barcode" />
       </list>
     </recent_temporary>
   </component>
@@ -284,23 +272,23 @@
       <option name="presentableId" value="Default" />
       <updated>1555063864542</updated>
       <workItem from="1555063867730" duration="985000" />
-      <workItem from="1555903924840" duration="2686000" />
+      <workItem from="1555903924840" duration="4860000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3671000" />
+    <option name="totallyTimeSpent" value="5845000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-2" width="3840" height="2080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2529349" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2529349" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32968834" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32968834" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -332,7 +320,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/examples/multiple_image_prediction.py">
+    <entry file="file://$PROJECT_DIR$/showcases/examples/multiple_image_prediction.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
@@ -370,20 +358,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/showcases/testShelf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/showcases/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/com/ml/utils/shelfCamera.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="22" column="17" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="17" />
+        <state relative-caret-position="373">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/showcases/testShelf.py">
+    <entry file="file://$PROJECT_DIR$/showcases/MultiObjectTracker/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/showcases/MultiObjectTracker/multiTracker.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        <state relative-caret-position="-1305">
+          <folding>
+            <element signature="e#75#112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/showcases/heatmap/generate_heatmap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="120" column="13" selection-start-line="120" selection-start-column="13" selection-end-line="120" selection-end-column="13" />
+          <folding>
+            <element signature="e#346#355#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/showcases/tracking/tracker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="3" column="67" lean-forward="true" selection-start-line="3" selection-start-column="67" selection-end-line="3" selection-end-column="67" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
